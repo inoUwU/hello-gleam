@@ -1,4 +1,4 @@
-# Gleam HelloWorld
+# HelloWorld Gleam 
 
 Writing Gleam
 Learn to work with Gleam projects
